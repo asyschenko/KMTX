@@ -13,8 +13,8 @@ let package = Package(
     targets: [
     	.binaryTarget(
     		name: "KMTX",
-      		url: "https://asyschenko.github.io/KMTXBuilds/KMTX-0.3.1.zip",
-      		checksum: "cdca1c7a474fde8f8e3140ee026e38a8b6d8cf2f541ab8fe76838d89c6e08f14"
+      		url: "https://asyschenko.github.io/KMTXBuilds/KMTX-0.3.2.zip",
+      		checksum: "a49be147c1189bc35ae8bf12bf4a08faed0c9af44cab94b4f5507992083d0dc5"
     	)
     ]
 )
