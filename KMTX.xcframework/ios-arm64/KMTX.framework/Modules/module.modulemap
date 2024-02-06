@@ -1,0 +1,4 @@
+framework module KMTX {
+  header "KMTX-Swift.h"
+  requires objc
+}
