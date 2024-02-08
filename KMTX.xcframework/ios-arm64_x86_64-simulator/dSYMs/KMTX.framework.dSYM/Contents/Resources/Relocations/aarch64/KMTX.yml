@@ -1,6 +1,6 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     '/Users/alexsyschenko/Library/Caches/org.carthage.CarthageKit/DerivedData/15.0.1_15A507/KMTX/6d47f0ac7608558b87a68fece08e4ad3c810e211/Build/Products/Release-iphonesimulator/KMTX.framework/KMTX'
+binary-path:     '/Users/alexsyschenko/Library/Caches/org.carthage.CarthageKit/DerivedData/15.0.1_15A507/KMTX/56cd94eb7f7c46f137f00d3c04d0dae5ab26db8d/Build/Products/Release-iphonesimulator/KMTX.framework/KMTX'
 relocations:
   - { offsetInCU: 0x34, offset: 0x88DB7, size: 0x8, addend: 0x0, symName: _KMTXVersionString, symObjAddr: 0x0, symBinAddr: 0x2B12B0, symSize: 0x0 }
   - { offsetInCU: 0x69, offset: 0x88DEC, size: 0x8, addend: 0x0, symName: _KMTXVersionNumber, symObjAddr: 0x28, symBinAddr: 0x2B12D8, symSize: 0x0 }
